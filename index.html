@@ -2,20 +2,44 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Wordsmith</title>
 
     <!-- ! Favicon -->
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css" />
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
+    <div class="quote-container" id="quote-container">
+        <!-- ! Quote element -->
+        <div class="quote-text">
+            <i class="fas fa-quote-left"></i>
+            <span id="quote">What you are is what you have done is left to be solved and needs to
+                be meet deadlines</span>
+            <i class="fas fa-quote-right"></i>
 
+        </div>
+
+        <!-- ! Author element -->
+        <div class="quote-author">
+            <span id="author">Buddha</span>
+
+        </div>
+
+        <!-- ! Buttons -->
+        <div class="button-container">
+            <button class="twitter-button" id="twitter" title="Tweet This! 😍">
+                <i class="fab fa-twitter"></i>
+                <button id="new-quote" title="New Quote 😎">New Quote</button>
+            </button>
+
+        </div>
+    </div>
 
     <!-- Script -->
     <script src="script.js"></script>
