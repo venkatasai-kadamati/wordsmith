@@ -9,4 +9,3 @@ While delving into the depths of project implementation, here are some notable l
 2. 🎨 Animated Libraries: There is an abundance of animated libraries available, but we discovered that sticking with Lottie libraries proved to be beneficial. They offer minimal design and excellent accessibility features.
 
 
-Let the wisdom of Big Ben inspire you and keep you motivated! 🕰️💫
