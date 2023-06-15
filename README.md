@@ -1,8 +1,12 @@
-# wordsmith
-A Quote Generator, helps motivate from big bens. 
+# Wordsmith
+A Quote Generator that harnesses the wisdom of Big Ben to inspire and motivate!
 
-### Learning
-While exploring the depths of the project implementation, these were the notable learnings : 
-1. CORS Issue - Can be solved using proxy server, while in our project we are using an free API, noticed that this issue comes up a lot when using free APIs.
-2. Animated libraries can be found abundant but still it is recommended to stick with lotte ones [Minimal and is very good accessibility wise].
-3. 
+### Learning 📚
+While delving into the depths of project implementation, here are some notable learnings:
+
+1. 🌐 CORS Issue: We encountered the CORS (Cross-Origin Resource Sharing) problem. To overcome it, we employed a proxy server. It's worth noting that this issue frequently arises when utilizing free APIs.
+
+2. 🎨 Animated Libraries: There is an abundance of animated libraries available, but we discovered that sticking with Lottie libraries proved to be beneficial. They offer minimal design and excellent accessibility features.
+
+
+Let the wisdom of Big Ben inspire you and keep you motivated! 🕰️💫
