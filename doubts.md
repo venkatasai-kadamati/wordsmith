@@ -1,3 +1,5 @@
+# Doubts and Things to note:
+
 1. Make sure to look into :
    -> box-size : border-box
    -> max-width :
